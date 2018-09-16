@@ -1,8 +1,5 @@
 embo wes
-<<<<<<< HEAD
-=======
 baris 2
 baris 3
-<<<<<<< HEAD
-baris 4 asli
->>>>>>> folderanyar
+baris 4 (asli)
+baris 5
