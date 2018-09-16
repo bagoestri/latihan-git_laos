@@ -1,0 +1,4 @@
+embo wes
+baris 2
+baris 3
+baris 4
